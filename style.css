@@ -1,0 +1,50 @@
+body {
+  background-color: rgba(150, 150, 150, 0.1);
+}
+
+h3, h5 {
+  font-family: serif;
+  text-transform: uppercase;
+  padding: 0.1em;
+  margin-right: 0.5em;
+  border-bottom: 0.125em solid rgba(35, 35, 35, 0.2);
+}
+
+.row {
+  margin-bottom: 2em;
+}
+.row .img-thumbnail {
+  margin: -1.5em 0em;
+}
+
+.lead {
+  font-size: 1.75em;
+  opacity: 0.6;
+  margin-top: -0.75em;
+  padding-left: 0.24em;
+}
+
+.media {
+  background-color: rgba(35, 35, 35, 0.1);
+  padding: 5px;
+  margin-top: 1em;
+}
+.media img {
+  height: 250px;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  margin-top: 1em;
+  border-top: 1em solid rgba(35, 35, 35, 0.05);
+  color: rgba(35, 35, 35, 0.6);
+  font-size: 0.9em;
+}
+footer a {
+  color: #232323;
+}
+footer a:hover {
+  text-decoration: none;
+  color: rgba(35, 35, 35, 0.8);
+}
