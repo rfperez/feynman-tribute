@@ -15,6 +15,7 @@ h3, h5 {
 }
 .row .img-thumbnail {
   margin: -1.5em 0em;
+  max-height: 550px;
 }
 
 .lead {
@@ -31,6 +32,7 @@ h3, h5 {
 }
 .media img {
   height: 250px;
+  width: 210px;
 }
 
 footer {
